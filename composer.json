@@ -1,0 +1,8 @@
+{
+    "name": "pc-user/doingsdone",
+    "description": "website to plan your to-do list",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3.0S"
+    }
+}
